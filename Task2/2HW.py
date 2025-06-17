@@ -66,3 +66,5 @@ elif (b >= c and b <= d and a <= c):
     print(b - c + 1)
 elif (d >= a and d <= b and c <= a):
     print(d - a + 1)
+
+#Answer : 7
