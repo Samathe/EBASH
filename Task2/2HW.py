@@ -1,6 +1,5 @@
 #1 True
 #2
-"""
 password1 = input()
 password2 = input()
 
@@ -8,10 +7,10 @@ if password1 == password2:
     print(True)
 else:
     print(False)
-Answer: False
-"""
+#Answer: False
+
 #3
-"""a = int(input())
+a = int(input())
 b = int(input())
 c = int(input())
 d = int(input())
@@ -27,19 +26,19 @@ else:
         else:
             print(d)
 #Answer: 12 
-"""
+
 #5
-"""a = int(input())
+a = int(input())
 b = int(input())
 c = int(input())
 
 if a + b > c and a + c > b and b + c > a:
     print(True)
 else:
-    print(False)"""
+    print(False)
 # Answer : True
 #6
-"""a = int(input())
+a = int(input())
 b = int(input())
 c = int(input())
 
@@ -49,10 +48,9 @@ if a + b > c and a + c > b and b + c > a:
     if (a == b == c):
         print("Равностороний")
 else:
-    print("Вырожденный")"""
+    print("Вырожденный")
 #Answer : Вырожденный
 # 7
-
 a = int(input())
 b = int(input())
 c = int(input())
