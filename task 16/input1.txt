@@ -1,0 +1,4 @@
+name age height school
+Tima 20 70 11
+Dima 19 80 24
+Sigma 24 90 9
